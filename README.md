@@ -20,11 +20,10 @@
 
 Hey, I'm **Nikita** — a software engineer who loves building things that are fast, elegant, and purposeful. Whether it's a polished web interface or a systems-level component, I care deeply about the craft.
 
-- Currently working on **[your current project]**
-- Learning **[something you're exploring]**
-- Ask me about **Next.js, React, Rust, Java, Python**
-- Reach me at **[your email or link]**
-- Fun fact: **[something interesting about you]**
+- Currently working on **Synthea**
+- Learning **Rust, SpringBoot and ML**
+- Ask me about **Next.js, React, Rust, Java, Python, C++**
+- Reach me at **nikitakuzmin19102006@gmail.com**
 
 ---
 
@@ -81,9 +80,9 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitakuzmin19&repo=YOUR_REPO_NAME&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)](https://github.com/nikitakuzmin19/YOUR_REPO_NAME)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitakuzmin19&repo=YOUR_REPO_NAME&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)](https://github.com/nikitakuzmin19/synthea)
 &nbsp;&nbsp;
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitakuzmin19&repo=YOUR_REPO_NAME_2&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)](https://github.com/nikitakuzmin19/YOUR_REPO_NAME_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitakuzmin19&repo=YOUR_REPO_NAME_2&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)](https://github.com/nikitakuzmin19/invaders)
 
 </div>
 
@@ -93,13 +92,13 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kuzmin-986310276)
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/https://t.me/nikitakuzmin63)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:nikitakuzmin19102006@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=firefox&logoColor=white)](https://nikitakuzmin.dev)
 
 </div>
 
