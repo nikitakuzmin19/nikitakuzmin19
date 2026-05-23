@@ -41,6 +41,8 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Tools & Platforms**
@@ -56,9 +58,9 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 <div align="center">
 
-<img height="160" src="github-readme-stats-gamma-three-65.vercel.app/api?username=nikitakuzmin19&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api?username=nikitakuzmin19&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff" />
 &nbsp;&nbsp;
-<img height="160" src="github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
 
 </div>
 
@@ -94,7 +96,7 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kuzmin-986310276)
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/https://t.me/nikitakuzmin63)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nikitakuzmin63)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:nikitakuzmin19102006@gmail.com)
 &nbsp;
