@@ -82,9 +82,9 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitakuzmin19&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)](https://github.com/nikitakuzmin19/synthea)
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/synthea)
 &nbsp;&nbsp;
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=nikitakuzmin19&repo=invaders&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111)](https://github.com/nikitakuzmin19/invaders)
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=invaders&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/invaders)
 
 </div>
 
