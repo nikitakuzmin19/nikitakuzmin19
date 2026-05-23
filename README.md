@@ -66,13 +66,13 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nikitakuzmin19&theme=default&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&dates=888888" />
+<img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api?username=nikitakuzmin19&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff&count_private=true" />
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikitakuzmin19&theme=flat&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikitakuzmin19&theme=flat&no-frame=true&margin-w=8&column=5&exclude_title=Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
