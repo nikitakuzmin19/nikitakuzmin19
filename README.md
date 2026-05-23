@@ -56,9 +56,9 @@ Hey, I'm **Nikita** — a software engineer who loves building things that are f
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nikitakuzmin19&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff" />
+<img height="160" src="github-readme-stats-gamma-three-65.vercel.app/api?username=nikitakuzmin19&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
+<img height="160" src="github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
 
 </div>
 
