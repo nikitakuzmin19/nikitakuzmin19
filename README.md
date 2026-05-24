@@ -14,6 +14,8 @@
 
 </div>
 
+</div>
+
 <div align="center">
 
 [![Profile views](https://komarev.com/ghpvc/?username=nikitakuzmin19&style=flat&color=111111&label=profile+views)](https://github.com/nikitakuzmin19)
@@ -30,6 +32,9 @@
 &nbsp;
 
 </div>
+
+</div>
+
 
 </div>
 
