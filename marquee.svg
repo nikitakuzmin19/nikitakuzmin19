@@ -5,7 +5,7 @@
     }
     @keyframes scroll {
       from { transform: translateX(600px); }
-      to   { transform: translateX(-140%); }
+      to   { transform: translateX(-145%); }
     }
     text {
       font-family: monospace;
