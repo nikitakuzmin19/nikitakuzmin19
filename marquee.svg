@@ -1,0 +1,19 @@
+<svg width="600" height="30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .marquee {
+      animation: scroll 12s linear infinite;
+    }
+    @keyframes scroll {
+      from { transform: translateX(600px); }
+      to   { transform: translateX(-100%); }
+    }
+    text {
+      font-family: monospace;
+      font-size: 14px;
+      fill: #111111;
+    }
+  </style>
+  <g class="marquee">
+    <text y="20">Just building stuff that works. · Systems engineer at heart. · Rust · TypeScript · Java · Always shipping.</text>
+  </g>
+</svg>
