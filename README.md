@@ -6,6 +6,9 @@
 
 **Software Engineer**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Just+building+stuff+that+works.;Systems+engineer+at+heart.;Rust+%7C+TypeScript+%7C+Java;Always+shipping.)](https://git.io/typing-svg)
+&nbsp;
+
 <div align="center">
 
 [![Profile views](https://komarev.com/ghpvc/?username=nikitakuzmin19&style=flat&color=111111&label=profile+views)](https://github.com/nikitakuzmin19)
@@ -19,6 +22,7 @@
 [![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:nikitakuzmin19102006@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=firefox&logoColor=white)](https://nikitakuzmin.dev)
+&nbsp;
 
 </div>
 
@@ -27,6 +31,7 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,python,rust,c,cpp,nodejs,git,docker,postgres,redis,aws,azure,linux&perline=9)](https://skillicons.dev)
+&nbsp;
 
 </div>
 
