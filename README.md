@@ -6,6 +6,18 @@
 
 **Software Engineer**
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kuzmin-986310276)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nikitakuzmin63)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:nikitakuzmin19102006@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=firefox&logoColor=white)](https://nikitakuzmin.dev)
+
+</div>
+
 *Just building stuff that works.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=nikitakuzmin19&style=flat&color=111111&label=profile+views)](https://github.com/nikitakuzmin19)
@@ -14,7 +26,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -22,7 +33,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -75,20 +85,6 @@ Exploring **Spring Boot** and **machine learning** on the side.
 </div>
 
 ---
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kuzmin-986310276)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nikitakuzmin63)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:nikitakuzmin19102006@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=firefox&logoColor=white)](https://nikitakuzmin.dev)
-
-</div>
 
 <div align="center">
 
