@@ -1,19 +1,21 @@
 <svg width="600" height="30" xmlns="http://www.w3.org/2000/svg">
   <style>
     .marquee {
-      animation: scroll 16s linear infinite;
+      animation: scroll 15s linear infinite;
     }
     @keyframes scroll {
       from { transform: translateX(600px); }
-      to   { transform: translateX(-100%); }
+      to   { transform: translateX(-145%); }
     }
     text {
       font-family: monospace;
       font-size: 14px;
-      fill: #cccccc;
+      fill: #999999;
+      font-weight: 700;
+      letter-spacing: 0.5px;
     }
   </style>
   <g class="marquee">
-    <text y="20">Just building stuff that works · Systems engineering · Docker · Always shipping · C++ · Rust · Java</text>
+    <text y="20">Systems engineering · Always shipping · Docker · C++ · Rust · Java · React · AWS · Azure · Python</text>
   </g>
 </svg>
