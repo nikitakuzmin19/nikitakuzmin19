@@ -40,6 +40,7 @@
 
 </div>
 
+
 ## Featured Projects
 
 <div align="center">
@@ -50,11 +51,8 @@
 
 </div>
 
+
 ## GitHub Stats
-
-
-<details>
-<summary><.-.></summary>
 
 <br />
 
@@ -65,35 +63,6 @@
 <img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
 
 </div>
-
-</details>
-
-<details>
-<summary><.-.></summary>
-
-<br />
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api?username=nikitakuzmin19&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nikitakuzmin19&theme=default&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&dates=888888" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikitakuzmin19&theme=flat&no-frame=true&margin-w=8&column=5&exclude_title=Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-</details>
 
 ---
 
