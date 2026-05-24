@@ -52,6 +52,22 @@
 
 ## GitHub Stats
 
+
+<details>
+<summary><.-.></summary>
+
+<br />
+
+<div align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nikitakuzmin19&theme=default&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&dates=888888" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
+
+</div>
+
+</details>
+
 <details>
 <summary><.-.></summary>
 
