@@ -41,8 +41,6 @@
 </div>
 
 
-## GitHub Stats
-
 <br />
 
 <div align="center">
@@ -53,8 +51,6 @@
 
 </div>
 
-
-## Featured Projects
 
 <br />
 
