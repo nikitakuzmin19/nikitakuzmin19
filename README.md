@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Marquee](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=0&color=111111&center=false&vCenter=true&repeat=true&width=600&separator=%3B&lines=Just+building+stuff+that+works.+%E2%80%A2+Systems+engineer+at+heart.+%E2%80%A2+Rust+%7C+TypeScript+%7C+Java+%E2%80%A2+Always+shipping.+%E2%80%A2)
+![Marquee](./marquee.svg)
 
 </div>
 
