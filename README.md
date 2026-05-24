@@ -6,7 +6,7 @@
 
 **Software Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Just+building+stuff+that+works.;Systems+engineer+at+heart.;Rust+%7C+TypeScript+%7C+Java;Always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=111111&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Just+building+stuff+that+works.;Systems+engineer+at+heart.;Rust+%7C+TypeScript%7C+Java;Always+shipping.)](https://git.io/typing-svg)
 &nbsp;
 
 <div align="center">
