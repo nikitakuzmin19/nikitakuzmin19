@@ -18,26 +18,24 @@
 
 ## About Me
 
-Hey, I'm **Nikita** — a software engineer who builds purposeful projects. Whether it's a web interface or a systems level component, I build for the love of the game.
+I'm Nikita — a software engineer who builds purposeful, well-crafted software. I care as much about the internals as the interface, whether that's a clean React component or a systems-level Rust module.
 
-- Currently working on **Synthea and Procedural Planet Generation**
-- Learning **SpringBoot and ML**
-- Ask me about **Next.js, React, Rust, Java, Python, C++**
-- Reach me at **nikitakuzmin19102006@gmail.com**
+Currently building **Synthea** and a **Procedural Planet Generator**.
+Exploring **Spring Boot** and **machine learning** on the side.
+
+> Open to interesting problems. Reach me at [nikitakuzmin19102006@gmail.com](mailto:nikitakuzmin19102006@gmail.com)
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend & Languages**
-
+**Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -45,8 +43,7 @@ Hey, I'm **Nikita** — a software engineer who builds purposeful projects. Whet
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Tools & Platforms**
-
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
