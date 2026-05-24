@@ -8,7 +8,9 @@
 
 <div align="center">
 
-![Marquee](./marquee.svg)
+![](https://raw.githubusercontent.com/nikitakuzmin19/nikitakuzmin19/master/marquee.svg)
+
+</div>
 
 </div>
 
