@@ -22,10 +22,7 @@
 
 </div>
 
-*Just building stuff that works.*
-
 </div>
-
 
 <div align="center">
 
@@ -33,20 +30,20 @@
 
 </div>
 
+## Featured Projects
 
-## About Me
+<div align="center">
 
-Currently building **Synthea** and a **Procedural Planet Generator**.
-Exploring **Spring Boot** and **machine learning** on the side.
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/synthea)
+&nbsp;&nbsp;
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=procedural-planet-generation&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/procedural-planet-generation)
 
-> Open to interesting problems. Reach me at [nikitakuzmin19102006@gmail.com](mailto:nikitakuzmin19102006@gmail.com)
-
----
+</div>
 
 ## GitHub Stats
 
 <details>
-<summary>GitHub Stats</summary>
+<summary><.-.></summary>
 
 <br />
 
@@ -73,16 +70,6 @@ Exploring **Spring Boot** and **machine learning** on the side.
 </details>
 
 ---
-
-## Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/synthea)
-&nbsp;&nbsp;
-[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=procedural-planet-generation&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/procedural-planet-generation)
-
-</div>
 
 <div align="center">
 
