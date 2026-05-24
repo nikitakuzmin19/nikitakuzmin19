@@ -14,7 +14,13 @@
 
 </div>
 
+---
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,python,rust,c,cpp,nodejs,git,docker,postgres,redis,aws,azure,linux&perline=9)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -27,11 +33,12 @@ Exploring **Spring Boot** and **machine learning** on the side.
 
 ---
 
-
-
----
-
 ## GitHub Stats
+
+<details>
+<summary>GitHub Stats</summary>
+
+<br />
 
 <div align="center">
 
@@ -52,6 +59,8 @@ Exploring **Spring Boot** and **machine learning** on the side.
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikitakuzmin19&theme=flat&no-frame=true&margin-w=8&column=5&exclude_title=Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+</details>
 
 ---
 
