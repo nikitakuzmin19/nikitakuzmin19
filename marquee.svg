@@ -1,7 +1,7 @@
 <svg width="600" height="30" xmlns="http://www.w3.org/2000/svg">
   <style>
     .marquee {
-      animation: scroll 12s linear infinite;
+      animation: scroll 16s linear infinite;
     }
     @keyframes scroll {
       from { transform: translateX(600px); }
