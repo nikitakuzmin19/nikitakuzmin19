@@ -10,10 +10,10 @@
     text {
       font-family: monospace;
       font-size: 14px;
-      fill: #111111;
+      fill: #cccccc;
     }
   </style>
   <g class="marquee">
-    <text y="20">Just building stuff that works. · Systems engineer at heart. · Rust · TypeScript · Java · Always shipping.</text>
+    <text y="20">Just building stuff that works · Systems engineering · Docker · Always shipping · C++ · Rust · Java</text>
   </g>
 </svg>
