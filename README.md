@@ -8,6 +8,10 @@
 
 <div align="center">
 
+[![Profile views](https://komarev.com/ghpvc/?username=nikitakuzmin19&style=flat&color=111111&label=profile+views)](https://github.com/nikitakuzmin19)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/nikitakuzmin19?style=flat&color=111111&label=followers)](https://github.com/nikitakuzmin19?tab=followers)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kuzmin-986310276)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nikitakuzmin63)
@@ -19,10 +23,6 @@
 </div>
 
 *Just building stuff that works.*
-
-[![Profile views](https://komarev.com/ghpvc/?username=nikitakuzmin19&style=flat&color=111111&label=profile+views)](https://github.com/nikitakuzmin19)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/nikitakuzmin19?style=flat&color=111111&label=followers)](https://github.com/nikitakuzmin19?tab=followers)
 
 </div>
 
@@ -83,8 +83,6 @@ Exploring **Spring Boot** and **machine learning** on the side.
 [![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=procedural-planet-generation&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/procedural-planet-generation)
 
 </div>
-
----
 
 <div align="center">
 
