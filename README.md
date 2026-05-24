@@ -6,7 +6,7 @@
 
 **Software Engineer**
 
-*Building clean, fast, and meaningful software.*
+*Just building stuff that works.*
 
 [![Profile views](https://komarev.com/ghpvc/?username=nikitakuzmin19&style=flat&color=111111&label=profile+views)](https://github.com/nikitakuzmin19)
 &nbsp;&nbsp;
@@ -18,10 +18,10 @@
 
 ## About Me
 
-Hey, I'm **Nikita** — a software engineer who loves building things that are fast, elegant, and purposeful. Whether it's a polished web interface or a systems-level component, I care deeply about the craft.
+Hey, I'm **Nikita** — a software engineer who builds purposeful projects. Whether it's a web interface or a systems level component, I build for the love of the game.
 
-- Currently working on **Synthea**
-- Learning **Rust, SpringBoot and ML**
+- Currently working on **Synthea and Procedural Planet Generation**
+- Learning **SpringBoot and ML**
 - Ask me about **Next.js, React, Rust, Java, Python, C++**
 - Reach me at **nikitakuzmin19102006@gmail.com**
 
