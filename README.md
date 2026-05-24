@@ -41,17 +41,6 @@
 </div>
 
 
-## Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/synthea)
-&nbsp;&nbsp;
-[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=procedural-planet-generation&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/procedural-planet-generation)
-
-</div>
-
-
 ## GitHub Stats
 
 <br />
@@ -61,6 +50,19 @@
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nikitakuzmin19&theme=default&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&dates=888888" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats-gamma-three-65.vercel.app/api/top-langs/?username=nikitakuzmin19&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" />
+
+</div>
+
+
+## Featured Projects
+
+<br />
+
+<div align="center">
+
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/synthea)
+&nbsp;&nbsp;
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin19&repo=procedural-planet-generation&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin19/procedural-planet-generation)
 
 </div>
 
