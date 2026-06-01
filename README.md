@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:e0e0e0&height=120&section=header&text=&fontColor=111111" />
 
-# Hi, I'm Nikita Kuzmin
+# Nikita Kuzmin
 
 **Software Engineer**
 
