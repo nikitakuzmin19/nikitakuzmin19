@@ -60,9 +60,14 @@
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin06&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin06/synthea)
-&nbsp;&nbsp;
+
 [![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin06&repo=procedural-planet-generation&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin06/procedural-planet-generation)
+&nbsp;&nbsp;
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin06&repo=cnn-on-mnist&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin06/cnn-on-mnist)
+&nbsp;&nbsp;
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin06&repo=image-processing-from-scratch&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin06/image-processing-from-scratch)
+&nbsp;&nbsp;
+[![Project Card](https://github-readme-stats-gamma-three-65.vercel.app/api/pin/?username=nikitakuzmin06&repo=synthea&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff)](https://github.com/nikitakuzmin06/synthea)
 
 </div>
 
